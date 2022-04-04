@@ -1,0 +1,8 @@
+Connexion à la base de données : 
+
+ssh -i C:\Users\romai\OneDrive\Bureau\h2fullstack debian@185.189.158.162
+su romain
+password : romain
+
+adresse du site/base de données :
+185.189.158.162
